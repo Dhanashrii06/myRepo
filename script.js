@@ -1,9 +1,9 @@
-console.log("hello");
-alert("oye");
-var arr=["array", 334,677,767];
-arr.forEach(
-    function(val){
-      console.log(val+2)  ;
-    }
-);
-var arr=
+console.log("hiii");
+alert("oyeee");
+var myName="daanshri";
+let ournmae="freeCopdeCsmp";
+const pi=2.3;
+var a;
+var b=3;
+
+console.log(a);
